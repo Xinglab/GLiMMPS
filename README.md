@@ -1,0 +1,47 @@
+### Source code and Supplemental data related to the GLiMMPS manuscript:
+
+-   Keyan Zhao^1,2^, Zhi-xiang Lu^1,2^, Juw Won Park^1,2^, Qing Zhou^3^
+    and Yi Xing^1,2,4^ \
+     **Robust statistical model for regulatory variation of alternative
+    splicing using RNA-Seq data\
+    ** submitted to Genome Biology
+
+\
+ ^1^Department of Internal Medicine, University of Iowa, IA 52242, USA.\
+ ^2^Department of Microbiology, Immunology and Molecular Genetics,
+University of California, Los Angeles, CA 90095, USA.\
+ ^3^Department of Statistics, University of California, Los Angeles, CA
+90095, USA.\
+ ^4^Corresponding author:
+
+\
+ Yi Xing\
+ Department of Microbiology, Immunology and Molecular Genetics\
+ University of California, Los Angeles\
+ Los Angeles, CA 90095-7278\
+ Phone: 310-825-6806\
+ Fax: 310-206-3663\
+ Email: [yxing@ucla.edu](mailto:yxing@ucla.edu)\
+
+* * * * *
+
+**Source code, turorial and example dataset for GLiMMPS package**
+
+-   [**Source code of the GLiMMPS package**](GLiMMPScode.tar.gz)
+-   [**Tutorial on how to use the GLiMMPS package
+    (PDF)**](Tutorial_for_GLiMMPS.pdf)
+-   [**Example dataset on how to use the GLiMMPS package( file size \~80
+    MB)**](example.tar.gz)
+
+* * * * *
+
+**Supplemental dataset for the manuscript**
+
+-   [**Genotype, Junction read counts, and P-values of various models
+    from CEU dataset (\~230MB)**](CheungCEU.tar.gz)
+-   [**Genotype, Junction read counts, and P-values of various models
+    from CEU2 dataset (\~230MB)**](MontgomeryCEU.tar.gz)
+
+* * * * *
+
+(updated on March 12, 2013.)
