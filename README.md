@@ -1,18 +1,18 @@
 ### Source code and Supplemental data related to the GLiMMPS manuscript:
 
--   Keyan Zhao^1,2^, Zhi-xiang Lu^1,2^, Juw Won Park^1,2^, Qing Zhou^3^
-    and Yi Xing^1,2,4^ \
+-   Keyan Zhao1,2, Zhi-xiang Lu1,2, Juw Won Park1,2, Qing Zhou3
+    and Yi Xing1,2,4 \
      **Robust statistical model for regulatory variation of alternative
     splicing using RNA-Seq data\
     ** submitted to Genome Biology
 
 \
- ^1^Department of Internal Medicine, University of Iowa, IA 52242, USA.\
- ^2^Department of Microbiology, Immunology and Molecular Genetics,
+ 1 Department of Internal Medicine, University of Iowa, IA 52242, USA.\
+ 2 Department of Microbiology, Immunology and Molecular Genetics,
 University of California, Los Angeles, CA 90095, USA.\
- ^3^Department of Statistics, University of California, Los Angeles, CA
+ 3 Department of Statistics, University of California, Los Angeles, CA
 90095, USA.\
- ^4^Corresponding author:
+ 4 Corresponding author:
 
 \
  Yi Xing\
