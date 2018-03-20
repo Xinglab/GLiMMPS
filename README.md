@@ -38,9 +38,9 @@ University of California, Los Angeles, CA 90095, USA.\
 **Supplemental dataset for the manuscript**
 
 -   [**Genotype, Junction read counts, and P-values of various models
-    from CEU dataset (\~230MB)**](CheungCEU.tar.gz)
+    from CEU dataset (\~230MB)**](https://xinglab.cass.idre.ucla.edu/public/glimmps/CheungCEU.tar.gz)
 -   [**Genotype, Junction read counts, and P-values of various models
-    from CEU2 dataset (\~230MB)**](MontgomeryCEU.tar.gz)
+    from CEU2 dataset (\~230MB)**](https://xinglab.cass.idre.ucla.edu/public/glimmps/MontgomeryCEU.tar.gz)
 
 * * * * *
 
