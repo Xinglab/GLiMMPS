@@ -21,7 +21,7 @@ University of California, Los Angeles, CA 90095, USA.\
  Los Angeles, CA 90095-7278\
  Phone: 310-825-6806\
  Fax: 310-206-3663\
- Email: [yxing@ucla.edu](mailto:yxing@ucla.edu)\
+ Email: [yxing@ucla.edu](mailto:yxing@ucla.edu)
 
 * * * * *
 
@@ -31,7 +31,7 @@ University of California, Los Angeles, CA 90095, USA.\
 -   [**Tutorial on how to use the GLiMMPS package
     (PDF)**](Tutorial_for_GLiMMPS.pdf)
 -   [**Example dataset on how to use the GLiMMPS package( file size \~80
-    MB)**](example.tar.gz)
+    MB)**](https://xinglab.cass.idre.ucla.edu/public/glimmps/example.tar.gz)
 
 * * * * *
 
