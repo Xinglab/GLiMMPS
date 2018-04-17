@@ -4,6 +4,8 @@
     and Yi Xing1,2,4 \
     GLiMMPS: robust statistical model for regulatory variation of alternative splicing using RNA-seq data\
     Genome Biol. 2013 Jul 22;14(7):R74. doi: 10.1186/gb-2013-14-7-r74.
+    
+    
 \
  1 Department of Internal Medicine, University of Iowa, IA 52242, USA.\
  2 Department of Microbiology, Immunology and Molecular Genetics,
