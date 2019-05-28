@@ -93,7 +93,7 @@ glmmWald.sQTL <- function(data) {
   if ( !( inherits(testglm,"try-error")  )) { # only when it converges
     betas <-fixef(testglm)
     if (!is.na(fixef(testglm)[2])) {
-      snp.pval <-  summary(testglm)@coefs[2,4]
+      snp.pval <-  summary(testglm)$coefficients[2,4]
     }
   }
   #psi.fitted <- results$fitted.value
