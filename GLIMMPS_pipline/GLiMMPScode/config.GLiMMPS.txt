@@ -1,0 +1,37 @@
+##################################
+# This is the main configuration file that specify the parameters needed for data proceessing
+# NOTE: before proceeding, change the parameters below accordingly so that GLiMMPS could run correctly at your system environment.
+##################################
+## short project title used to create filenames. To avoid errors,  make it short and no space or special characters.
+PROJECTTITLE = CEU
+##################################
+## Input file listing all the individual IDs in the population, which is used in all downstream analysis
+IDFILE = /path/to/CEU.samples.txt
+##################################
+## sam folder path (before the individual folder ).
+SAMPATH = /path/to/sam_unique/
+##################################
+## uniquely mapped sequence sam file name under the directory of each individual ID.
+SAMFILE = unique.sam
+## The 3 parameters combination specify the bam file of each individual with id $ID in the IDFILE.
+## $SAMPATH/$ID/$SAMFILE
+##################################
+### readLength
+READLENGTH =75
+###################################
+### junctionLength: it can be calculated as 
+###   junctionLength = 2*(readLength-anchorLength)
+#
+### For example, if your readLength is 75 and you ran tophat with -a/--min-anchor-length 8
+### junction length becomes 2*(75-8) = 134
+JUNCTIONLENGTH = 13
+###################################
+## Path to the misc python perl scripts
+SCRIPTDIR = /path/to/GLiMMPScode/pythonperlsrcs
+###################################
+## annotation file in gtf format, matched with the genome version where the reads were aligned to
+ANNOTATIONFILE = path/to/Genome/hg19/gencode.v19.annotation.gtf
+###################################
+## Path to plink command (optional, only necessary when plink is not in your $PATH environmental variable.)
+PLINKDIR = ~/bin/
+###################################
