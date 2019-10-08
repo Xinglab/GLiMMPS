@@ -78,7 +78,7 @@ The above code will put the summerized read counts into **Exon_Inc_Simple/AScoun
 Finally run the following code to filter out the AS events with no or little change in exon inclusion level (|Δψ|<0.1) or few total junction read counts (median n <5) in the population.
 ```
 cd Exon_Inc_Simple
-./GLiMMPScode/Rscripts/summarystat_exonmin5.R
+./GLiMMPScode/Rscripts/summarystat_exonmin5.R CEU
 ```
 The above code will produce files in **Exon_Inc_Simple/alltype/**, which will be used as input for statictical models.
 
